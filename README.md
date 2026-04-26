@@ -2,7 +2,7 @@
 This is my personal portfolio website built using React.js. It showcases my projects, skills, and contact information in a responsive and interactive design.
 
 ## Live Demo
-Link: myportfolio-app-react.netlify.app
+[https://myportfolio-app-react.netlify.app/](https://myportfolio-app-react.netlify.app/)
 
 ## Features
 - Home page with introduction and navigation
